@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jose-sanchezpalacios
-- 👀 I’m interested in Artificial Intelligence, NLP & Analytics.
+- 👀 I’m interested in Artificial Intelligence: NLP & Analytics.
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Marketing Projects
 - 📫 How to reach me josepalacios@fastmail.com
